@@ -110,3 +110,6 @@ git push --force-with-lease origin your-branch-name
 ---
 
 Si quieres que amplíe la documentación (por ejemplo: ejemplo de payloads de la API, limitaciones de imágenes, o instrucciones para desplegar en Vercel), dime qué sección quieres que extienda y la añado.
+
+
+## TODO LO CREADO EN ESTE REPOSITORIO HA SIDO CREADO POR COPILOT USANDO GTP-5 COMO MANERA DE PROBAR EL PODER DE COPILOT
